@@ -1,2 +1,2 @@
 # Text summarizer
-## This code summarizes your text
+This code summarizes your text

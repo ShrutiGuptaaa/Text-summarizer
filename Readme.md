@@ -3,12 +3,14 @@
  This project is a simple desktop application for summarizing text using a pre-trained BART model. The application is built using PyQt5 for the GUI and the Hugging Face Transformers library for the text summarization model.
 ## Installation
 Follow these steps to get the application running on your local machine:
- 1.Clone the repository
+ * Clone the repository
    git clone https://github.com/ShrutiiGuptaaa/text-summarizer-app.git
    cd text-summarizer-app
- 2.Install the required libraries
+
+ * Install the required libraries
    pip install PyQt5 transformers torch
- 3.Run the application
+
+ * Run the application
     python main.py
 ## Usage
 The application has a simple interface with a text box for entering the text to be summarized and a button to start the summarization process. 
